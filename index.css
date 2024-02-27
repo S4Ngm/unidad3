@@ -3,3 +3,15 @@ html {font-family: Verdana;}
 h1 { text-align: center; color : #4287f5 ;}
 
 .TxPk {color: #b21eba; text-align: right; font-weight: bold;}
+
+a {text-decoration: none; color:#b00202;}
+ 
+h2 { background-color: #215703; color:#9ed97e;}
+
+
+
+li {text-align: center; font-weight: bold; display: inline-block; height: 70px; width: 200px; background-color: #fdff8f; border: #b00202; border-width: 1.5px; border-style: solid;} 
+
+li:hover {background-color:#dcde26}
+
+span {font-weight: bold; color: #fab339;} 
